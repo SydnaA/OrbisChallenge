@@ -1,0 +1,11 @@
+{
+	"width": 4,
+	"height": 4,
+	"player1X": 0,
+	"player1Y": 1,
+	"player2X": 2,
+	"player2Y": 3,
+	"initialHP": 2,
+	"maxTurns": 50,
+	"shield": [{"x":2,"y":1}]
+}
